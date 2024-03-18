@@ -15,7 +15,7 @@ Sistema de Denúncia de Arquivos: Implementar um sistema de denúncia para que o
 
 Membros da Equipe e Papel:
 
-    [Front-end]: Gabriel Lopes Cançado Lira
-    [Back-end]: Gabriel Rocha Martins 
-    []: 
-    []: 
+    [Front-end]:   Gabriel Lopes Cançado Lira
+    [Front-end]:   Ana Clara dos Anjos Patrício de Novais 
+    [Back-end]:    Gabriel Rocha Martins 
+    [Back-end]:    Dante Junqueira Pedrosa 
