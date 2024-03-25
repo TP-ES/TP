@@ -12,8 +12,9 @@ Nosso projeto tem como objetivo desenvolver um sistema web em Django para permit
 - **Avaliação da Qualidade dos Arquivos:** Permitir que os usuários avaliem a qualidade dos materiais, fornecendo feedback útil para outros usuários.
 - **Sistema de Denúncia de Arquivos:** Implementar um sistema de denúncia para que os usuários possam reportar materiais inadequados ou inapropriados.
 
-** Backlog do Produto **
+**Backlog do Produto**
 
+| ID  | Funcionalidade                                   |
 | --- | ------------------------------------------------ |
 | 1   | Sistema de Login                                 |
 | 2   | CRUD de Materiais                                |
