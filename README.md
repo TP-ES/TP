@@ -19,18 +19,27 @@ Nosso projeto tem como objetivo desenvolver um sistema web em Django para permit
     - Gabriel Rocha Martins
     - Dante Junqueira Pedrosa
 
-## Backlog do produto
+## Backlog do produto*
 
 - [X] Como representante do grêmio, gostaria de poder ver, incluir, remover e editar arquivos na página  
 - [X] Como representante do grêmio, gostaria de poder entrar por meio de uma página de login funções específicas para os grêmios  
 - [X] Como usuário, gostaria de poder vizualizar os documentos em lista, com filtros e ordenação, e poder baixar o arquivo desejado  
 - [X] Como usuário, gostaria de poder avaliar a qualidade do material disponibilizado  
-- [X] Como professor, gostaria de poder reportar para os administradores caso algum material esteja sendo indevidamente compartilhado, para que seja removido  
+- [X] Como usuário professor, gostaria de poder reportar para os administradores caso algum material esteja sendo indevidamente compartilhado, para que seja removido  
 - [ ] Como usuário, gostaria de fazer o upload de materiais que possam ser úteis para os demais  
 - [ ] Como administrador, gostaria de aprovar ou descartar sugestões de materiais enviados por usuários
-- [ ] Como usuário, gostaria de poder recuperar a senha caso esqueça
+- [ ] Como usuário, gostaria de poder recuperar a senha caso esqueça o meu login
+- [ ] Como usuário, gostaria de comentar sobre o material disponibilizado
+- [ ] Como usuário, gostaria de receber notificações por e-mail sobre materiais novos das disciplinas que acompanho
+- [ ] Como usuário, gostaria de poder personalizar meu perfil
+- [ ] Como representante do grêmio, gostaria de poder personalizar uma página para meu curso
+- [ ] Como representante do grêmio, gostaria de poder acompanhar estatísticas de acesso e uso
+- [ ] Como usuário, gostaria de poder conversar com outros usuários em chats privados
+- [ ] Como usuário, gostaria de poder salvar arquivos em listas/bibliotecas de favoritos
 
-### Lista de funcionalidades do backlog
+**As histórias selecionadas foram movidas para o backlog do sprint*
+
+### Lista de funcionalidades (baseadas no backlog)
 
 | ID  | Funcionalidade                                   |
 | --- | ------------------------------------------------ |
@@ -49,6 +58,7 @@ Nosso projeto tem como objetivo desenvolver um sistema web em Django para permit
 | 13  | Chat entre Usuários                              |
 | 14  | Integração com Redes Sociais                     |
 | 15  | Listas de Favoritos                              |
+
 
 ## Backlog do Sprint
 
