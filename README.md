@@ -66,4 +66,4 @@ Nosso projeto tem como objetivo desenvolver um sistema web em Django para permit
 - [ ] Como representante do grêmio, gostaria de poder entrar por meio de uma página de login funções específicas para os grêmios  
 - [ ] Como usuário, gostaria de poder vizualizar os documentos em lista, com filtros e ordenação, e poder baixar o arquivo desejado  
 - [ ] Como usuário, gostaria de poder avaliar a qualidade do material disponibilizado  
-- [ ] Como professor, gostaria de poder reportar para os administradores caso algum material esteja sendo indevidamente compartilhado, para que seja removido
+- [ ] Como usuário professor, gostaria de poder reportar para os administradores caso algum material esteja sendo indevidamente compartilhado, para que seja removido
