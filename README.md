@@ -36,6 +36,8 @@ Nosso projeto tem como objetivo desenvolver um sistema web em Django para permit
 - [ ] Como representante do grêmio, gostaria de poder acompanhar estatísticas de acesso e uso
 - [ ] Como usuário, gostaria de poder conversar com outros usuários em chats privados
 - [ ] Como usuário, gostaria de poder salvar arquivos em listas/bibliotecas de favoritos
+- [ ] Como usuário, gostaria de poder relatar erros nos documentos
+- [ ] Como usuário, gostaria de poder filtrar os arquivos de modo a só aparecem documentos com a resolução das questões completas
 
 **As histórias selecionadas foram movidas para o backlog do sprint*
 
