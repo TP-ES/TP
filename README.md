@@ -1,4 +1,4 @@
-# TP
+# Trabalho Prático - Engenharia de Software
 
 ## Escopo do Sistema
 
